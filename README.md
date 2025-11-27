@@ -9,7 +9,7 @@
 ---
 
 <!-- ![Snake animation](https://raw.githubusercontent.com/Jkey189/Jkey189/output/github-contribution-grid-snake-dark.svg) -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Jkey198/Jkey198/output/github-contribution-grid-snake-dark.svg) -->
+![Snake animation](https://raw.githubusercontent.com/Jkey198/Jkey198/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
