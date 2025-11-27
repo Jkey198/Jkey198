@@ -1,14 +1,12 @@
 ### Hi there 👋, my name is Oleg
-#### I'm a beginner developer
+#### I'm a student of High School of Economics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginner+backend+developer)](https://git.io/typing-svg)
 
-<!-- ![](https://komarev.com/ghpvc/?username=Jkey189&color=blue) -->
 ![](https://komarev.com/ghpvc/?username=Jkey198&color=blue)
 
 ---
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/Jkey189/Jkey189/output/github-contribution-grid-snake-dark.svg) -->
 ![Snake animation](https://raw.githubusercontent.com/Jkey198/Jkey198/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -24,12 +22,16 @@
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jkey189)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Jkey_0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='github' height='40'>](https://t.me/Jkey189)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:rodin.oleg.d@gmail.com)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkey189&layout=compact&theme=nord)](https://github.com/Jkey189/github-readme-stats)
+---
+
+### Old accout statistic - [Jkey189](https://github.com/Jkey189)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkey189&layout=compact&theme=nord)](https://github.com/Jkey189/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkey189&show_icons=true&theme=nord)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jkey189&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jkey189&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+### This account statistic
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkey198&layout=compact&theme=nord)](https://github.com/Jkey189/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkey198&show_icons=true&theme=nord)
@@ -54,8 +56,3 @@ And some gifs ☺️
 </p>
 
 <!-- gradient --->
-
-<!---
-Jkey189/Jkey189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
