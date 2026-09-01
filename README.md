@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Oleg
 #### I'm a student of High School of Economics
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginner+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Fullstack+developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Jkey198&color=blue)
 
